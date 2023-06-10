@@ -4,7 +4,7 @@
 
 * Evolução da Taxa Selic segundo períodos de vigências estabelecidos pelo BC, que possuam taxa anualizada (252 dias úteis) de 13.65% a.a. 
 * Valores acumulados anuais da Taxa Selic Over de 2019 a 2022.
-* Comparação dos valores da Taxa Selic Over dos meses de Maio de 2020 (antes da pandemia) e 2023 (fim da pandemia).
+* Comparação dos valores da Taxa Selic Over dos meses de Maio de 2020 (início da pandemia) e 2023 (fim da pandemia).
 
 **Fonte**: Portal de Dados Abertos do Banco Central do Brasil ( https://api.bcb.gov.br/dados/serie/bcdata.sgs.11/dados?formato=json.)
 
